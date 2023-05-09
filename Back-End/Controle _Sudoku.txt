@@ -1,0 +1,1 @@
+Fait les changement de donner de la grille par rapport au action que le joueur fait en front end Et verifie l'etat de la partie
