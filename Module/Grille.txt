@@ -1,0 +1,1 @@
+contient les differentes donnée de la grille comme la position des chiffres reveler et ou les chiffres non reveler devrais etre placer
